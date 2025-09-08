@@ -1,2 +1,2 @@
-![Header](./Banner.png)
+![Header](Banner.png)
 
